@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.next/
+out/
+.env*
+*.log
+.DS_Store
+__pycache__/
+*.png
+!skills/**/preview.png
+!skills/**/assets/**
+runs/*/node_modules/
